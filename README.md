@@ -1,6 +1,6 @@
 # corona_virus_app
 
-A new Flutter project.
+![home_page](https://user-images.githubusercontent.com/57314430/83944950-c1ad4780-a820-11ea-9b7d-e5bb9bb4a106.png)
 
 ## Getting Started
 
